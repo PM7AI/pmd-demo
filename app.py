@@ -3,3 +3,4 @@ def greet(name="St. Clair College"):
 
 if __name__ == "__main__":
     greet("Data Analytics Students")
+
